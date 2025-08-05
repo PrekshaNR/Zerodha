@@ -1,2 +1,2 @@
 # Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+Stock marketing website using React+Bootsrap,Node.js ,Express.js and MongoDB
